@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  DetailController.swift
 //  eTicket
 //
 //  Created by Kevin Trebossen on 23/10/2018.
@@ -8,13 +8,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class DetailController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
-
-
+    
+    
 }
-
